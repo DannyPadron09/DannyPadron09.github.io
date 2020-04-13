@@ -1,11 +1,11 @@
 # Site settings
 author: Danny Padron
-title: 
+title: Danny's Blog
 header-img: img/home-bg.png
 email: danny.padron09@gmail.com
 copyright_name: Danny Padron
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DannyPadron09
